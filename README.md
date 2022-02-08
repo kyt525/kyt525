@@ -28,4 +28,6 @@ ECE
 
          110 Introduction to Electronics              Spring  2022
          120 Introduction to Computing                Fall    2021
+         https://github-dev.cs.illinois.edu/ece120-fl21/kyt3.git
          220 Computer Systems and Processing          Spring  2022
+         https://github-dev.cs.illinois.edu/ECE220SP22/kyt3.git
