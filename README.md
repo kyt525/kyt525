@@ -13,7 +13,7 @@ Email:   kyt3@illinois.edu
 
 
 Technical classes I have received credit for or am currently enrolled in:
-........................................................................
+
 Math     231 Calc 2                                   Fall    2021
          241 Calc 3                                   Spring  2022
 Physics  211 Mechanics                                Fall    2021
